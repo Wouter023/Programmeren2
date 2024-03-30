@@ -1,0 +1,15 @@
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\bin\Debug\net6.0\assignment2.exe
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\bin\Debug\net6.0\assignment2.deps.json
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\bin\Debug\net6.0\assignment2.runtimeconfig.json
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\bin\Debug\net6.0\assignment2.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\bin\Debug\net6.0\assignment2.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\assignment2.csproj.AssemblyReference.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\assignment2.AssemblyInfoInputs.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\assignment2.AssemblyInfo.cs
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\assignment2.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\refint\assignment2.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\assignment2.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\assignment2.genruntimeconfig.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week3\assignment2\obj\Debug\net6.0\ref\assignment2.dll

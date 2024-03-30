@@ -1,0 +1,12 @@
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\bin\Debug\net6.0\MyTools.deps.json
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\bin\Debug\net6.0\MyTools.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\bin\Debug\net6.0\MyTools.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\MyTools.csproj.AssemblyReference.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\MyTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\MyTools.AssemblyInfoInputs.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\MyTools.AssemblyInfo.cs
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\MyTools.csproj.CoreCompileInputs.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\MyTools.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\refint\MyTools.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\MyTools.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 2\Programming2\Programming2-Week5\MyTools\obj\Debug\net6.0\ref\MyTools.dll
